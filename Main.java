@@ -1,5 +1,5 @@
 /* @author Nand Patel
- * @email pateln@students.dsbn.org
+ * @email pateln@students.dsbn.org or nandpatel14@gmail.com
  * @about This program will take runners' names and times from a 100m race and output   * *  new information.
  * @version 1.1
  * @notes Minor bug fix involving incorrectly functioning outputFastestEachRun method.    *  The fix is explained via a comment above the outputFastestEachRun method.
